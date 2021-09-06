@@ -1,0 +1,5 @@
+git add filename
+git status
+git commit -m "any type commit"
+git status
+git push
